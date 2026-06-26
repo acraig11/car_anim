@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="/Applications/MAMP/htdocs/car_anim/car_anim.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/car_anim]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/car_anim]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.3"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="/Applications/MAMP/htdocs/car_anim/white glove process.png" crc="1553443318000"/>
+  <file name="/Applications/MAMP/htdocs/car_anim/wheel.png" crc="1560189676000"/>
+  <file name="/Applications/MAMP/htdocs/car_anim/style.css" crc="1565810575000"/>
+  <file name="/Applications/MAMP/htdocs/car_anim/sky.jpg" crc="1560195076000"/>
+  <file name="/Applications/MAMP/htdocs/car_anim/road.jpg" crc="1560190556000"/>
+  <file name="/Applications/MAMP/htdocs/car_anim/index.html" crc="1565833090000"/>
+  <file name="/Applications/MAMP/htdocs/car_anim/city.png" crc="1560197220000"/>
+  <file name="/Applications/MAMP/htdocs/car_anim/car2.png" crc="1565812121000"/>
+  <file name="/Applications/MAMP/htdocs/car_anim/car.png" crc="1560189636000"/>
+  <file name="/Applications/MAMP/htdocs/car_anim/anim-style.css" crc="1565810575000"/>
+ </filescache>
+</project>
